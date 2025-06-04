@@ -15,10 +15,11 @@
 
 ## 📅 Hobbies
 - Solve programming problems on Leetcode
+- Keeping my garden green, IYKYK
 - Hiking
 - Lift weights at the gym
 - Play videogames, all of the Zelda games are incredibly fun to play! 
-- etc...
+
 
 ## 💻 Current projects
 - api vacation rental - Side project
