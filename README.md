@@ -17,8 +17,8 @@
 - Solve programming problems on Leetcode
 - Keeping my garden green, IYKYK
 - Hiking
-- Lift weights at the gym
-- Play videogames, all of the Zelda games are incredibly fun to play! 
+- Lifting weights at the gym
+- Playing videogames, all of the Zelda games are 10/10! 
 
 
 ## 💻 Current projects
