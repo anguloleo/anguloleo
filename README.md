@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h2 align="center">You can reach me at leo-angulo@outlook.com</h2>
+
 <h3 align="center">A software engineer from Los Angeles</h3>
+<h4 align="center">You can reach me at leo-angulo@outlook.com</h4>
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
