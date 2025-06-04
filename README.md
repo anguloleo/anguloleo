@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
+<h2 align="center">You can reach me at leo-angulo@outlook.com</h2>
 <h3 align="center">A software engineer from Los Angeles</h3>
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -6,19 +7,16 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 
-## 💬 Ask me about
+## 💬 About my Studies
 - Backend web development (Python, JavaScript)
 - Frontend web development (React.js, Redux.js)
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Side projects (Lazy Link ft. @dmfigueroa)
+
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
+- Solve programming problems on Leetcode
 - Hiking
-- Lift weights at local gym
-- Play videogames
+- Lift weights at the gym
+- Play videogames, all of the Zelda games are incredibly fun to play! 
 - etc...
 
 ## 💻 Current projects
