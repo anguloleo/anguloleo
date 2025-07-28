@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 
-<h3 align="center">A software engineer from Los Angeles</h3>
+<h3 align="center">A software engineer in Los Angeles</h3>
 <h4 align="center">You can reach me at leo-angulo@outlook.com</h4>
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -9,21 +9,21 @@
 
 
 ## 💬 About my Studies
-- Backend web development (Python, JavaScript)
-- Frontend web development (React.js, Redux.js)
+- Backend web development (Python, JavaScript, Sequelize, Express, Flax, Alembic, SQLite3, Postgresql)
+- Frontend web development (HTML, CSS, React, Redux)
 
 
 ## 📅 Hobbies
 - Solve programming problems on Leetcode
 - Keeping my garden green, IYKYK
 - Hiking
-- Lifting weights at the gym
-- Playing videogames, all of the Zelda games are 10/10! 
+- Lifting weights 
+- Getting fresh air and bit of sunshine!
 
 
-## 💻 Current projects
-- api vacation rental - Side project
-- Group Project - Side project
+## 💻 projects
+- API Project - LodgR (Airbnb Clone)
+- Group Project - Pintrix (Pinterest Clone)
 - Group Project2 - Side project
 
 ## 📚 Learning
