@@ -22,13 +22,6 @@
 </p>
           
 
-<h1 align="center">Hi 👋, I'm Leo</h1>
-
-<h3 align="center">A software engineer in Los Angeles</h3>
-<h4 align="center">You can reach me at leo-angulo@outlook.com</h4>
-
-
-
 ## 💬 About my Studies
 - Backend web development (Python, JavaScript, Sequelize, Express, Flax, Alembic, SQLite3, Postgresql)
 - Frontend web development (HTML, CSS, React, Redux)
