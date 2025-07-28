@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 
-<h3 align="center">A software engineer in Los Angeles</h3>
+<h3 align="center">Full-Stack Software Engineer in Los Angeles</h3>
 <h4 align="center">You can reach me at leo-angulo@outlook.com</h4>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 ## 💻 Projects
 - API Project - LodgR (Airbnb Clone)
-- Group Project - Pintrix (Pinterest Clone)
+- Flask Group Project - Pintrix (Pinterest Clone)
 - Final Project - hmmm...
 
 ## 📚 Learning
