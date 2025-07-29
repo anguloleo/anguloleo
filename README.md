@@ -36,7 +36,7 @@
 
 
 ## 💻 Projects
-- API Project - LodgR (Airbnb Clone)
+- Express API Project - LodgR (Airbnb Clone)
 - Flask Group Project - Pintrix (Pinterest Clone)
 - Final Project - hmmm...
 
