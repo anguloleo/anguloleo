@@ -38,7 +38,7 @@
 ## 💻 Projects
 - Express API Project - LodgR (Airbnb Clone)
 - Flask Group Project - Pintrix (Pinterest Clone)
-- Final Project - hmmm...
+- Final Project - PowerHaus (Gym Website)
 
 ## 📚 Learning
 - All day every day
