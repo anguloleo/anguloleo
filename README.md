@@ -41,7 +41,8 @@
 - Final Project - PowerHaus (Gym Website)
 
 ## 📚 Learning
-- All day every day
+- Completing IBM Java Developer Professional Certificate
+- Consists of 14 extensive courses on Full Stack Development with Java and Generative AI as its focus
 
 ## 🎵 Music
 - Anything with a good beat you can dance to
