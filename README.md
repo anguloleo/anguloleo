@@ -25,6 +25,7 @@
 ## 💬 About my Studies
 - Backend web development (Python, JavaScript, Sequelize, Express, Flax, Alembic, SQLite3, Postgresql)
 - Frontend web development (HTML, CSS, React, Redux)
+- Completing IBM Java Developer Professional Certificate, August 2026
 
 
 ## 📅 Hobbies
