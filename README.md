@@ -25,16 +25,15 @@
 ## 💬 About my Studies
 - Completing IBM Java Developer Professional Certificate, 2026-2027
 - App Academy Graduate (1-year coding bootcamp), 2025
-- Backend web development (Python, JavaScript, Sequelize, Express, Flax, Alembic, SQLite3, Postgresql)
-- Frontend web development (HTML, CSS, React, Redux)
+- Tech Stacks: JavaScript, Sequelize, Express, Python, Flax, Alembic, SQLite3, Postgresql, HTML, CSS, React, Redux
 - California State University Fullerton, Bachelors Business, Concentration: Information Systems, 2022
 
 
 
 ## 📅 Hobbies
 - Solve programming problems on Leetcode
-- Keeping my garden green, IYKYK
-- Hiking
+- Keeping my garden green
+- Running/Hiking
 - Lifting weights 
 - Getting fresh air and bit of sunshine!
 
