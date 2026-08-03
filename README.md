@@ -24,10 +24,10 @@
 
 ## 💬 About my Studies
 - Completing IBM Java Developer Professional Certificate, 2026-2027
-- App Academy Graduate (1-year coding bootcamp)
+- App Academy Graduate (1-year coding bootcamp), 2025
 - Backend web development (Python, JavaScript, Sequelize, Express, Flax, Alembic, SQLite3, Postgresql)
 - Frontend web development (HTML, CSS, React, Redux)
-- California State University Fullerton, Bachelors Business, Concentration: Information Systems 2022
+- California State University Fullerton, Bachelors Business, Concentration: Information Systems, 2022
 
 
 
