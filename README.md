@@ -23,7 +23,7 @@
           
 
 ## 💬 About my Studies
-- Completing IBM Java Developer Professional Certificate, 2026-2027
+- Completing Microsoft Introduction to C++ Programming Professional Certificate, 2026-2027
 - App Academy Graduate (1-year coding bootcamp), 2025
 - Tech Stacks: JavaScript, Sequelize, Express, Python, Flax, Alembic, SQLite3, Postgresql, HTML, CSS, React, Redux
 - California State University Fullerton, Bachelors Business, Concentration: Information Systems, 2022
